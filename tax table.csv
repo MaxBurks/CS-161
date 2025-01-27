@@ -1,0 +1,9 @@
+﻿Tax Rate,Taxable Income Threshold,,
+10%,Income from $ 0.000.00,to,"$11,600.00 "
+12%,"Income from $ 11,600.01",to,"$47,150.00 "
+22%,"Income from $ 47,150.01",to,"$100,525.00 "
+24%,"Income from $ 100,525.01",to,"$191,950.00 "
+32%,"Income from $ 191,950.01",to,"$243,725.00 "
+35%,"Income from $ 243,725.01",to,"$609,350.00 "
+37%,"Income from $ 609,350.01",,and above
+,,,
